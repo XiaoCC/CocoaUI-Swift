@@ -1,4 +1,4 @@
-# CocoaUI-Swift-
+# CocoaUI-Swift
 CocoaUI-Swift使用方法
 
 CocoaUI框架地址https://github.com/ideawu/cocoaui
